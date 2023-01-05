@@ -14,20 +14,6 @@
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/112713600/210852025-9e569a7d-3385-472e-b807-2ceb4a9b1b16.png" width="50%" height="auto" />
 
-
-#### 🧠 Coisas em que estou trabalhando atualmente:
-- Terminar minha graduação
-- Fazer cursos online sobre HTML5 | CSS | JavaScript | TypeScript | React  
-- Concluir meu site de portfólio (https://marciahelena-teste.netlify.app/) 🚀 *coming soon*
-##
-
-#### 🌱 Coisas com as quais estou me desafiando:
-- Acordar mais cedo para aproveitar bem o dia
-- Codificação pelo menos 4 horas por dia
-- Exercício 3 dias por semana
-- Melhorar meu currículo com alguma educação além da universidade
-##
-
 ## 🧠 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
 <div align="center">
