@@ -24,7 +24,7 @@ Bem-vindo(a) à minha página do Github! Eu sou Márcia e estou cursando Analise
 
 #### 🌱 Linguagens e ferramentas de programação:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://user-images.githubusercontent.com/112713600/210678619-72bef1c7-30a7-4c38-a333-2724c2e44127.png"></code>
 <code><img width="10%" src="https://user-images.githubusercontent.com/112713600/210677471-fbae8747-211b-4c07-a213-68cd11d999ef.png"></code>
