@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marciahelenalimac@gmail.com)
 
 <h3>Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolvimento de sistemas pela Unifatecie</h3>
-<p>este projeto da Dio é para criar do 0 um site clone do Netflix</p>
+<p>Projeto realizado, por alunos do Dev Club, montando uma pagina clone da Netflix. Utilizando HTML, CSS, JavaScript e Node.</p>
 
 <div> 
   <a href="https://lp.dio.me/dio-pro-recriando-netflix/" target="_blank"><img src="https://user-images.githubusercontent.com/112713600/210852537-eb6e86d5-e695-46f0-a4ae-ffb66a1c8b8f.png" target="_blank" align="center" height="50" width="60"></a>
