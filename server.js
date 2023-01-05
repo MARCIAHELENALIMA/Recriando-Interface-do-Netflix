@@ -10,5 +10,5 @@ app.get("/", (req, res) =>{
     res.sendfile(path.jooin(initialPath, "index.html"))
 })
 app.listen(3333, () =>{
-    console.log("server start up ${port}!") 
+    console.log(`server start up ${port}!`) 
 })
