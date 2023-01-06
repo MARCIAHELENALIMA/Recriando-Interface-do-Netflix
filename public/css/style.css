@@ -127,7 +127,7 @@ body{
   overflow: hidden;
 }
 
-.pre-btn,
+.prev-btn,
 .next-btn{
   position: absolute;
   height: 200px;
@@ -140,12 +140,12 @@ body{
   opacity: 0.5;
 }
 
-.pre-btn:hover,
+.prev-btn:hover,
 .next-btn:hover{
   opacity: 1;
 }
 
-.pre-btn{
+.prev-btn{
   left: -2.5vw;
 }
 
@@ -154,7 +154,7 @@ body{
   right: -2.5vw;
 }
 
-.pre-btn img,
+.prev-btn img,
 .next-btn img{
   width: 20px;
   height: 20px;
@@ -162,7 +162,7 @@ body{
 }
 
 .footer{
-  background: #080808;
+  background: #000000;
   width: 100%;
   padding: 20px;
   color: whitesmoke;
@@ -171,6 +171,7 @@ body{
   font-family: poppins;
   align-items: center;
   justify-content: center;
+  margin-top: 50px;
 }
 .footer .footer-text{
   position: relative;

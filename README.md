@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciahelenalima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marciahelenalimac@gmail.com)
 
-<h3>Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolvimento de sistemas pela Unifatecie</h3>
+<h3>Bem-vindo(a) ao meu repositório do Github! Estou cursando Analise e desenvolvimento de sistemas pela Unifatecie</h3>
 <p>este projeto da Dio é para criar do 0 um site clone do Netflix</p>
 
 <div> 
