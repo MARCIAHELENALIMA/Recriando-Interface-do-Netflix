@@ -62,3 +62,8 @@ const makeCards = (id, data)=>{
       <p class="movie-title">The Witcher</p>
     </div>
     `
+if(i == data.length -1){
+  settimeout(()=>{
+    setupScrooling()
+  }, 100)
+}
