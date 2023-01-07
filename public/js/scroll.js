@@ -2,7 +2,7 @@ const setupScrooling= () =>{
   const container = [...document.querySelectorAll(".movie-container")]
 
   const nextBtn = [...document.querySelectorAll(".next-btn")]
-  const prevBtn = [...document.querySelectorAll(".pre-btn")]
+  const prevBtn = [...document.querySelectorAll(".prev-btn")]
 
 
   container.forEach((item, i)=>{
